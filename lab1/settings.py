@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-u*d@1bbxn_n)a_undps@v#9wfcts+2h*wb3=$tlcto)e(_6w@9
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://lab2-a5kw.onrender.com']
+ALLOWED_HOSTS = ['*']
 # DEBUG = False
 
 # ALLOWED_HOSTS = ['*']  # дараа нь Render domain-оор сольж болно
